@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebContextManager">
+    <option name="state">
+      <map>
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/Autor/formulario.jsp" value="file://$PROJECT_DIR$/src/main/webapp/Autor" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/Autor/lista.jsp" value="file://$PROJECT_DIR$/src/main/webapp/Autor" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/Autores/formulario.jsp" value="file://$PROJECT_DIR$/src/main/webapp/Autores" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/autor/formulario.jsp" value="file://$PROJECT_DIR$/src/main/webapp/autor" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/autor/lista.jsp" value="file://$PROJECT_DIR$/src/main/webapp/autor" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/categoria/formulario.jsp" value="file://$PROJECT_DIR$/src/main/webapp/categoria" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/categoria/lista.jsp" value="file://$PROJECT_DIR$/src/main/webapp/categoria" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/index.jsp" value="file://$PROJECT_DIR$/src/main/webapp" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/material/formulario.jsp" value="file://$PROJECT_DIR$/src/main/webapp/material" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/material/lista.jsp" value="file://$PROJECT_DIR$/src/main/webapp/material" />
+      </map>
+    </option>
+  </component>
+</project>
